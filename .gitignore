@@ -9,3 +9,4 @@
 *.gif
 *.avi
 *.mp4
+src/database/users.db
